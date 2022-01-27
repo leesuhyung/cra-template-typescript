@@ -1,7 +1,39 @@
 {
   "name": "cra-template-typescript",
   "version": "0.0.0-development",
-  "private": true,
+  "author": "leesuhyung <realnavystyle@gmail.com>",
+  "engines": {
+    "node": ">=17"
+  },
+  "main": "template.json",
+  "description": "A quick start Create React App template with React, TypeScript, Custom ESlint configurations",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "cra-template",
+    "cra-template-typescript",
+    "eslint",
+    "typescript",
+    "prettier",
+    "leesuhyung"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leesuhyung/cra-template-typescript",
+    "directory": "/"
+  },
+  "bugs": {
+    "url": "https://github.com/leesuhyung/cra-template-typescript/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -25,12 +57,6 @@
     "prepublishOnly": "pinst --disable",
     "postpublish": "pinst --enable",
     "semantic-release": "semantic-release"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
   },
   "browserslist": {
     "production": [
@@ -63,9 +89,5 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/leesuhyung/cra-template-typescript.git"
   }
 }
