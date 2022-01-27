@@ -1,0 +1,41 @@
+{
+  "package": {
+    "dependencies": {
+      "@testing-library/jest-dom": "^5.16.1",
+      "@testing-library/react": "^12.1.2",
+      "@testing-library/user-event": "^13.5.0",
+      "typescript": "^4.5.5",
+      "web-vitals": "^2.1.4"
+    },
+    "devDependencies": {
+      "@types/jest": "^27.4.0",
+      "@types/node": "^16.11.21",
+      "@types/react": "^17.0.38",
+      "@types/react-dom": "^17.0.11",
+      "@typescript-eslint/eslint-plugin": "^5.10.1",
+      "@typescript-eslint/parser": "^5.10.1",
+      "commitizen": "4.2.4",
+      "cz-conventional-changelog": "^3.3.0",
+      "eslint": "^8.7.0",
+      "eslint-config-airbnb": "^19.0.4",
+      "eslint-config-airbnb-typescript": "^16.1.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-prettier": "^4.0.0",
+      "husky": "^7.0.4",
+      "prettier": "2.5.1"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject",
+      "husky:init": "husky install && husky set .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'",
+      "postinstall": "npm run husky:init"
+    },
+    "config": {
+      "commitizen": {
+        "path": "./node_modules/cz-conventional-changelog"
+      }
+    }
+  }
+}

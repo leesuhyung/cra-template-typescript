@@ -1,6 +1,6 @@
 {
   "name": "cra-template-typescript",
-  "version": "0.1.0",
+  "version": "0.0.0-development",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
@@ -23,7 +23,8 @@
     "eject": "react-scripts eject",
     "postinstall": "husky install && husky set .husky/prepare-commit-msg 'exec < /dev/tty && ./node_modules/.bin/cz --hook || true'",
     "prepublishOnly": "pinst --disable",
-    "postpublish": "pinst --enable"
+    "postpublish": "pinst --enable",
+    "semantic-release": "semantic-release"
   },
   "eslintConfig": {
     "extends": [
@@ -44,6 +45,8 @@
     ]
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
     "@typescript-eslint/eslint-plugin": "^5.10.1",
     "@typescript-eslint/parser": "^5.10.1",
     "cz-conventional-changelog": "^3.3.0",
@@ -53,11 +56,16 @@
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
     "husky": "^7.0.4",
-    "pinst": "^2.1.6"
+    "pinst": "^2.1.6",
+    "semantic-release": "^19.0.2"
   },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leesuhyung/cra-template-typescript.git"
   }
 }
