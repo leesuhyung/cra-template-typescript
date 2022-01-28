@@ -36,6 +36,7 @@ jobs:
       - name: Run linters
         uses: wearerequired/lint-action@v1
         with:
+          eslint_dir: src/
           git_email: 'realnavystyle@gmail.com'
           auto_fix: true
           commit_message: 'style: fix code style issues with ${linter}'
