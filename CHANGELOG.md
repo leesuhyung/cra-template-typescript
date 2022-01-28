@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.1...v1.0.2) (2022-01-28)
+
+
+### Bug Fixes
+
+* bug fix ([3acb07a](https://github.com/leesuhyung/cra-template-typescript/commit/3acb07a38034ce7dadd115571053b9e6c04a9de1))
+
 ## [1.0.1](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.0...v1.0.1) (2022-01-27)
 
 
