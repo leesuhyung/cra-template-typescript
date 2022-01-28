@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.3...v1.0.4) (2022-01-28)
+
+
+### Bug Fixes
+
+* tsconfig: remove include ([dc5055d](https://github.com/leesuhyung/cra-template-typescript/commit/dc5055ddf86412916ecc11a3092eff1f105f2744))
+
 ## [1.0.3](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.2...v1.0.3) (2022-01-28)
 
 
