@@ -82,7 +82,7 @@
     "eslint-config-prettier": "8.4.0",
     "eslint-plugin-prettier": "4.0.0",
     "husky": "7.0.4",
-    "pinst": "2.1.6",
+    "pinst": "3.0.0",
     "semantic-release": "19.0.2"
   },
   "config": {
