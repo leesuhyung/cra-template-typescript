@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.4...v1.0.5) (2022-04-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency react-scripts to v5.0.1 ([f344234](https://github.com/leesuhyung/cra-template-typescript/commit/f34423452bf6b228cefcc077e41056ffcdd7afdd))
+
 ## [1.0.4](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.3...v1.0.4) (2022-01-28)
 
 
