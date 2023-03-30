@@ -71,7 +71,7 @@
     ]
   },
   "devDependencies": {
-    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/changelog": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@typescript-eslint/eslint-plugin": "5.27.0",
     "@typescript-eslint/parser": "5.27.0",
@@ -83,7 +83,7 @@
     "eslint-plugin-prettier": "4.0.0",
     "husky": "8.0.1",
     "pinst": "3.0.0",
-    "semantic-release": "19.0.2"
+    "semantic-release": "19.0.5"
   },
   "config": {
     "commitizen": {
