@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.7...v1.0.8) (2023-04-01)
+
+
+### Bug Fixes
+
+* **deps:** update react monorepo ([99d11bc](https://github.com/leesuhyung/cra-template-typescript/commit/99d11bc339f171dcfc107eda6f477ac075e6f2cc))
+
 ## [1.0.7](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.6...v1.0.7) (2023-04-01)
 
 
