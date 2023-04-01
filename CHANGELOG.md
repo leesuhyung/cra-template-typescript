@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.5...v1.0.6) (2023-04-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @testing-library/jest-dom to v5.16.5 ([4e54fcf](https://github.com/leesuhyung/cra-template-typescript/commit/4e54fcf8e2152bd6b46e92ad23a3f348bbadfa02))
+
 ## [1.0.5](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.4...v1.0.5) (2022-04-16)
 
 
