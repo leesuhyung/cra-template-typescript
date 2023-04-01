@@ -1,3 +1,10 @@
+## [1.0.7](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.6...v1.0.7) (2023-04-01)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @testing-library/react to v12.1.5 ([179d633](https://github.com/leesuhyung/cra-template-typescript/commit/179d633a4cf24d518f8c6a252b71de67f10a1fc1))
+
 ## [1.0.6](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.5...v1.0.6) (2023-04-01)
 
 
