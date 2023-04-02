@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.8...v1.0.9) (2023-04-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/jest to v27.5.2 ([2b0b2ab](https://github.com/leesuhyung/cra-template-typescript/commit/2b0b2ab371dd59e4a25da09dc38180fb6369b086))
+
 ## [1.0.8](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.7...v1.0.8) (2023-04-01)
 
 
