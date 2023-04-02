@@ -1,3 +1,10 @@
+## [1.0.11](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.10...v1.0.11) (2023-04-02)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typescript to v4.9.5 ([0899b78](https://github.com/leesuhyung/cra-template-typescript/commit/0899b780278eab2aacd5ead64135c550403f61f2))
+
 ## [1.0.10](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.9...v1.0.10) (2023-04-02)
 
 
