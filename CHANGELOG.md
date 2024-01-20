@@ -1,3 +1,10 @@
+## [1.0.17](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.16...v1.0.17) (2024-01-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/node to v16.18.73 ([d1c777d](https://github.com/leesuhyung/cra-template-typescript/commit/d1c777d33d166c5a1ce5062a9e56452fa5258f06))
+
 ## [1.0.16](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.15...v1.0.16) (2023-10-28)
 
 
