@@ -1,3 +1,10 @@
+## [1.0.20](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.19...v1.0.20) (2024-04-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/react to v17.0.80 ([23ec855](https://github.com/leesuhyung/cra-template-typescript/commit/23ec855827c94d2f9d03105f29bc23798ad3e050))
+
 ## [1.0.19](https://github.com/leesuhyung/cra-template-typescript/compare/v1.0.18...v1.0.19) (2024-04-13)
 
 

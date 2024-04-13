@@ -1,6 +1,6 @@
 {
   "name": "@leesuhyung/cra-template-typescript",
-  "version": "1.0.19",
+  "version": "1.0.20",
   "author": "leesuhyung <realnavystyle@gmail.com>",
   "engines": {
     "node": ">=17"
